@@ -1,0 +1,16 @@
+header{
+display: inline  ;
+border: 2px solid blue ;
+width: 30%;
+margin: 20%;
+margin-top: 40%;
+text-align: center;
+
+}
+
+p{
+    /* display: inline-block; */
+}
+a{
+    text-align: center;
+}
